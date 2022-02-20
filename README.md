@@ -1,4 +1,8 @@
 # Machine Learning
+研究生管理系统
+http://210.34.193.33/login.aspx
+
+
 Machine Learning Course
 
 Classification https://github.com/tccnchsu/Deep-Learning---Hsu---SoSe18/blob/newmaster/ppts/Basic%20Concepts%20of%20Classification_1.pdf
