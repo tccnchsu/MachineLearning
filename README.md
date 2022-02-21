@@ -1,4 +1,7 @@
 # Machine Learning
+
+Microsoft Azure Essentials Azure Machine Learning  https://download.microsoft.com/download/0/9/6/096170E9-23A2-4DA6-89F5-7F5079CB53AB/9780735698178.pdf
+
 研究生管理系统
 http://210.34.193.33/login.aspx
 
