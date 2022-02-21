@@ -2,6 +2,11 @@
 研究生管理系统
 http://210.34.193.33/login.aspx
 
+许老师阿里云教学网:  http://101.200.231.5:8080/course/
+
+许老师QQ教学网:
+https://user.qzone.qq.com/918771221/blog/1644767008
+
 
 Chinese & English Group: 
 
